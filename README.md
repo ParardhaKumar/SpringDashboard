@@ -1,4 +1,4 @@
-# SpringClientDashboard
+# SpringDashboard
 Spring MVC web application for managing clients inventory.
 
 
@@ -38,7 +38,7 @@ The application is built using Spring MVC, Spring Security, Hibernate and Maven 
 Prerequisites: Eclipse IDE, Tomcat, MySQL Community Edition
 
 1. Clone this git repository
-`$ git clone https://github.com/ParardhaKumar/SpringClientDashboard`
+`$ git clone https://github.com/ParardhaKumar/SpringDashboard`
 
 2. Open MySQL Workbench and type following SQL scripts:
 ``` mysql 
@@ -111,55 +111,55 @@ VALUES
 
 #### Home Page
 
-![](https://github.com/ParardhaKumar/SpringClientDashboard/blob/master/img/HomePage.png)
+![](https://github.com/ParardhaKumar/SpringDashboard/blob/master/img/HomePage.png)
 
 #### Register New User
-![](https://github.com/ParardhaKumar/SpringClientDashboard/blob/master/img/Register.png)
+![](https://github.com/ParardhaKumar/SpringDashboard/blob/master/img/Register.png)
 
 #### Successful Registration
-![](https://github.com/ParardhaKumar/SpringClientDashboard/blob/master/img/Successful%20Registration.png)
+![](https://github.com/ParardhaKumar/SpringDashboard/blob/master/img/Successful%20Registration.png)
 
 #### Login with New Registered User
-![](https://github.com/ParardhaKumar/SpringClientDashboard/blob/master/img/EmployeeLogin.png)
+![](https://github.com/ParardhaKumar/SpringDashboard/blob/master/img/EmployeeLogin.png)
 
 #### Client Dashboard for user with "Employee" access
-![](https://github.com/ParardhaKumar/SpringClientDashboard/blob/master/img/EmployeeUser.png)
+![](https://github.com/ParardhaKumar/SpringDashboard/blob/master/img/EmployeeUser.png)
 
 #### Search for Client
-![](https://github.com/ParardhaKumar/SpringClientDashboard/blob/master/img/SearchJack.png)
+![](https://github.com/ParardhaKumar/SpringDashboard/blob/master/img/SearchJack.png)
 
 #### Search result
-![](https://github.com/ParardhaKumar/SpringClientDashboard/blob/master/img/FindJack.png)
+![](https://github.com/ParardhaKumar/SpringDashboard/blob/master/img/FindJack.png)
 
 #### Manager Login
-![](https://github.com/ParardhaKumar/SpringClientDashboard/blob/master/img/ManagerLogin.png)
+![](https://github.com/ParardhaKumar/SpringDashboard/blob/master/img/ManagerLogin.png)
 
 #### Client Dashboard for user with "Manager" access
-![](https://github.com/ParardhaKumar/SpringClientDashboard/blob/master/img/ManagerListing.png)
+![](https://github.com/ParardhaKumar/SpringDashboard/blob/master/img/ManagerListing.png)
 
 #### Form Validation while adding new Client
-![](https://github.com/ParardhaKumar/SpringClientDashboard/blob/master/img/FormValidation.png)
+![](https://github.com/ParardhaKumar/SpringDashboard/blob/master/img/FormValidation.png)
 
 #### Adding a New Client
-![](https://github.com/ParardhaKumar/SpringClientDashboard/blob/master/img/AddUser.png)
+![](https://github.com/ParardhaKumar/SpringDashboard/blob/master/img/AddUser.png)
 
 #### Client Successfully Added
-![](https://github.com/ParardhaKumar/SpringClientDashboard/blob/master/img/UserAddded.png)
+![](https://github.com/ParardhaKumar/SpringDashboard/blob/master/img/UserAddded.png)
 
 #### Changes reflected in SQL Workbench
-![](https://github.com/ParardhaKumar/SpringClientDashboard/blob/master/img/Workbench.png)
+![](https://github.com/ParardhaKumar/SpringDashboard/blob/master/img/Workbench.png)
 
 #### Updating an Existing Client
-![](https://github.com/ParardhaKumar/SpringClientDashboard/blob/master/img/ManagerUpdate.png)
+![](https://github.com/ParardhaKumar/SpringDashboard/blob/master/img/ManagerUpdate.png)
 
 #### CLient Successfully Updated
-![](https://github.com/ParardhaKumar/SpringClientDashboard/blob/master/img/UserUpdate.png)
+![](https://github.com/ParardhaKumar/SpringDashboard/blob/master/img/UserUpdate.png)
 
 #### Admin Login
-![](https://github.com/ParardhaKumar/SpringClientDashboard/blob/master/img/AdminLogin.png)
+![](https://github.com/ParardhaKumar/SpringDashboard/blob/master/img/AdminLogin.png)
 
 #### Client Dashboard for user with "Admin" access
-![](https://github.com/ParardhaKumar/SpringClientDashboard/blob/master/img/AdminListing.png)
+![](https://github.com/ParardhaKumar/SpringDashboard/blob/master/img/AdminListing.png)
 
 #### Client Successfully Deleted
-![](https://github.com/ParardhaKumar/SpringClientDashboard/blob/master/img/DeletedClient.png)
+![](https://github.com/ParardhaKumar/SpringDashboard/blob/master/img/DeletedClient.png)
